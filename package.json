@@ -1,0 +1,15 @@
+{
+  "id": "panda",
+  "name": "Panda",
+  "version": "1.0.0",
+  "description": "Panda",
+  "main": "index.js",
+  "author": "Alex Devero <deveroalex@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alexdevero/franz-panda-recipe",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "serviceURL": "https://usepanda.com/app/"
+  }
+}
